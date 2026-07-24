@@ -231,6 +231,40 @@ The workflow generates:
 
 ---
 
+---
+
+# 📊 Project Results
+
+## Model Comparison
+
+![Model Comparison](figures/model_comparison.png)
+
+---
+
+## Confusion Matrices
+
+![Confusion Matrix](figures/model_confusion_matrices.png)
+
+---
+
+## XGBoost Feature Importance
+
+![Feature Importance](figures/model_xgb_feature_importance.png)
+
+---
+
+## PCA & t-SNE Visualization
+
+![PCA t-SNE](figures/adv_pca_tsne.png)
+
+---
+
+## Error Analysis
+
+![Error Analysis](figures/adv_error_analysis.png)
+
+---
+
 # 👩‍💻 Authors
 
 **Team 7 — AIT 626 Machine Learning Final Project**
