@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and model artifacts
+*.parquet
+*.csv
+*.pkl
+*.joblib
+*.model
+*.jsonl
+
+# Generated figures
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,12 @@
+numpy==1.26.4
+pandas==2.2.2
+pyarrow==15.0.2
+scikit-learn
+xgboost
+lightgbm
+scipy
+matplotlib
+seaborn
+shap
+jupyter
+nbconvert
