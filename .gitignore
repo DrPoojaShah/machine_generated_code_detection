@@ -17,11 +17,6 @@ env/
 *.model
 *.jsonl
 
-# Generated figures
-*.png
-*.jpg
-*.jpeg
-*.svg
 
 # OS and IDE
 .DS_Store
